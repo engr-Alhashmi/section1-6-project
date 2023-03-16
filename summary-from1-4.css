@@ -1,0 +1,42 @@
+body {
+  background-color: rgb(231, 219, 241);
+}
+header {
+  text-align: center;
+}
+h1 {
+  font-size: 52px;
+  color: rgb(143, 60, 220);
+}
+header img {
+  width: 300px;
+}
+main {
+  background-color: rgb(120, 72, 165);
+  width: 900px;
+  padding: 30px;
+  margin: 40px auto;
+  color: aliceblue;
+  border-radius: 8px;
+}
+
+.more-edit {
+  color: rgb(214, 223, 79);
+}
+.highlight {
+  font-weight: bold;
+  color: rgb(230, 189, 139);
+}
+a {
+  text-decoration: dashed;
+  background-color: bisque;
+  color: blueviolet;
+  padding: 5px;
+  border-radius: 8px;
+}
+a:hover {
+  background-color: rgb(174, 104, 18);
+}
+footer {
+  text-align: center;
+}
